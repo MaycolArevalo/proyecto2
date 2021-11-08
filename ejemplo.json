@@ -1,0 +1,55 @@
+{
+"nombres": "Ana Esmeralda",
+"apellidos": "Estrada Galindo",
+"carne": "7590-21-12345",
+"edad": 25,
+"sexo": "femenino",
+"carrera": "Ingenier�a en Ciencias y Sistemas",
+"totalCreditos": 100,
+"cantidadCursosAprobados": 3,
+"cursosAprobados": [
+{
+"semestre": 2,
+"nombreCurso1": "Algoritmos",
+"codigoCurso1": "008",
+"zonaCurso1": 21,
+"examenFinalCurso1": 40,
+"fechaCurso1": "18/11/2021"
+},
+{
+"semestre": 2,
+"nombreCurso2": "Prec�lculo",
+"codigoCurso2": "006",
+"zonaCurso2": 30,
+"examenFinalCurso2": 30,
+"fechaCurso2": "25/11/2021"
+},
+{
+"semestre": 2,
+"nombreCurso3": "Contabilidad 2",
+"codigoCurso3": "009",
+"zonaCurso3": 25,
+"examenFinalCurso3": 40,
+"fechaCurso3": "18/11/2021"
+}
+],
+"cursosReprobados": [
+{
+"semestre": 1,
+"nombreRep1": "L�gica de Sistemas",
+"codigoRep1": "008",
+"zonaRep1": 19,
+"examenFinalRep1": 0,
+"fechaRep1": "15/06/2021"
+},
+{
+"semestre": 1,
+"nombreRep2": "Desarrollo Humano y Profesional",
+"codigoRep2": "001",
+"zonaRep2": 30,
+"examenFinalRep2": 24,
+"fechaRep2": "23/06/2021"
+}
+]
+}
+
